@@ -1,5 +1,3 @@
-
-
 # Olá | Hi there 👋
 
 ## Experiência com
