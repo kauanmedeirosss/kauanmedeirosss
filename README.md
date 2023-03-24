@@ -2,6 +2,7 @@
 # Olá | Hi there 👋
 ### ✶  📚 Graduanda de Bacharelado em Sistemas de Informação.
 ### ✶  👩🏻‍💻 Atualmente praticando Java.
+### ✶  💬 Português - BR, Inglês, Espanhol.
 
 ## Experiência com
 
