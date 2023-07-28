@@ -1,6 +1,6 @@
 ![shinji-evangelion](https://user-images.githubusercontent.com/98926823/227601034-37e7c0b2-00e8-4402-8df7-63bb4deb1143.gif)
 # Olá 👋
-### ✶  📚 Graduanda de Bacharelado em Sistemas de Informação.
+### ✶  📚 Estudante de Bacharelado em Sistemas de Informação.
 ### ✶  👩🏻‍💻 Atualmente praticando Java e C.
 ### ✶  💬 Português - BR, Inglês, Espanhol.
 
