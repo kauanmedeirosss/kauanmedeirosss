@@ -1,4 +1,4 @@
-![image](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/2eb568c8-2dc8-4e0c-a332-757461c9c542)
+![giphy](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/62fbf9f2-4549-41c5-8145-bbf3ccc3f512)
 
 # Olá 👋
 ### ✶  📚 Estudante de Bacharelado em Sistemas de Informação.
