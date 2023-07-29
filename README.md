@@ -1,4 +1,4 @@
-![shinji-evangelion](https://user-images.githubusercontent.com/98926823/227601034-37e7c0b2-00e8-4402-8df7-63bb4deb1143.gif)
+![image](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/c62b971b-fd33-4f1c-b947-207106acec31)![shinji-evangelion](https://user-images.githubusercontent.com/98926823/227601034-37e7c0b2-00e8-4402-8df7-63bb4deb1143.gif)
 # Olá 👋
 ### ✶  📚 Estudante de Bacharelado em Sistemas de Informação.
 ### ✶  👩🏻‍💻 Atualmente praticando Java e C.
@@ -7,6 +7,9 @@
 ## Experiência com
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
+          
+          
 
 <div>
 <a href="https://github.com/cecimedeiros">
