@@ -1,4 +1,4 @@
-![image](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/c62b971b-fd33-4f1c-b947-207106acec31)![shinji-evangelion](https://user-images.githubusercontent.com/98926823/227601034-37e7c0b2-00e8-4402-8df7-63bb4deb1143.gif)
+![image](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/c62b971b-fd33-4f1c-b947-207106acec31)![shinji-evangelion](https://user-
 # Olá 👋
 ### ✶  📚 Estudante de Bacharelado em Sistemas de Informação.
 ### ✶  👩🏻‍💻 Atualmente praticando Java e C.
