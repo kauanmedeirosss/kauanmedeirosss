@@ -1,8 +1,8 @@
 ![giphy](https://github.com/cecimedeiros/cecimedeiros/assets/98926823/62fbf9f2-4549-41c5-8145-bbf3ccc3f512)
 
 # Olá 👋
-### ✶  📚 Estudante de Bacharelado em Sistemas de Informação.
-### ✶  👩🏻‍💻 Atualmente praticando Java e C.
+### ✶  📚 Estudante de Bacharelado em Sistemas de Informação na UFPB.
+### ✶  👩🏻‍💻 Atualmente estudando Java e C.
 ### ✶  💬 Português - BR, Inglês, Espanhol.
 
 ## Experiência com
