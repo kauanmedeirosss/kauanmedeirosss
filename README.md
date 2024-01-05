@@ -1,6 +1,6 @@
 # Olá 👋
 ### ✶  📚 Estudante de Bacharelado em Sistemas de Informação na UFPB.
-### ✶  👩🏻‍💻 Atualmente estudando Java e C.
+### ✶  👩🏻‍💻 Atualmente estudando Java, C e HTML + CSS.
 ### ✶  💬 Português - BR, Inglês, Espanhol.
 
 ## Experiência com:
