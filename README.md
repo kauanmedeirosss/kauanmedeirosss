@@ -1,6 +1,6 @@
 # Olá 👋
 ### ✶  📚 Estudante de Bacharelado em Sistemas de Informação na UFPB.
-### ✶  👩🏻‍💻 Atualmente estudando MySQL, Desenvolvimento Web e Prolog.
+### ✶  👩🏻‍💻 Atualmente estudando Desenvolvimento Web e C#.
 ### ✶  💬 Português - BR, Inglês, Espanhol.
 
 ## Experiência com:
