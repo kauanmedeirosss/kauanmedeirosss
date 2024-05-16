@@ -11,6 +11,6 @@
           
 
 <div>
-<a href="https://github.com/cecimedeiros">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimedeiros&layout=compact&langs_count=7&theme=ocean_dark"/>
+<a href="https://github.com/lorimedeiros">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorimedeiros&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
