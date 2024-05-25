@@ -1,12 +1,12 @@
 # Olá 👋
-## ✶  📚 Discente de Bacharelado em Sistemas de Informação na UFPB.
+## ✶  📚 Discente de Bacharelado em Sistemas de Informação na UFPB.  
 
-## ✶  👩🏻‍💻 Atualmente estudando: 
+## ✶  👩🏻‍💻 Atualmente estudando:  
 ### * Desenvolvimento Web com Springboot
 ### * Desenvolvimento com .NET
 ### * Desenvolvimento android com Kotlin e xml
 
-## ✶  💬 Português - BR, Inglês, Espanhol.
+## ✶  💬 Português - BR, Inglês, Espanhol.  
 
 # ✶ Experiência com:
 
