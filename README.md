@@ -1,6 +1,6 @@
 # Olá 👋
 ### ✶  📚 Discente de Bacharelado em Sistemas de Informação na UFPB.
-### ✶  👩🏻‍💻 Atualmente estudando Desenvolvimento Web com Springboot e também .NET.
+### ✶  👩🏻‍💻 Atualmente estudando Desenvolvimento Web com Springboot e .NET.
 ### ✶  💬 Português - BR, Inglês, Espanhol.
 
 ## Experiência com:
