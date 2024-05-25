@@ -1,14 +1,14 @@
 # Olá 👋
-## ✶ 📚 Discente de Bacharelado em Sistemas de Informação na UFPB.
+✶ 📚 Discente de Bacharelado em Sistemas de Informação na UFPB.
 
-## ✶ 👩🏻‍💻 Atualmente estudando:
-### * Desenvolvimento Web com Springboot
-### * Desenvolvimento com .NET
-### * Desenvolvimento android com Kotlin e xml
+✶ 👩🏻‍💻 Atualmente estudando:
+* Desenvolvimento Web com Springboot
+* Desenvolvimento com .NET
+* Desenvolvimento android com Kotlin e xml
 
-## ✶ 💬 Português - BR, Inglês, Espanhol.
+✶ 💬 Português - BR, Inglês, Espanhol.
 
-# ✶ Experiência com:
+## ✶ Experiência com:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75" height="75"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="75" height="75"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" height="75"/>
 
