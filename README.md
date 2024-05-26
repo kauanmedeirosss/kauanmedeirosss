@@ -27,3 +27,8 @@
 </a>
 </div>
 
+<div style="margin-top: 20px;">
+<a href="https://github.com/lorimedeiros">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorimedeiros&theme=ocean_dark"/>
+</a>
+</div>
