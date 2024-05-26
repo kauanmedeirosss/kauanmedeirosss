@@ -23,12 +23,6 @@
 
 <div style="margin-top: 20px;">
 <a href="https://github.com/lorimedeiros">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorimedeiros&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-</a>
-</div>
-
-<div style="margin-top: 20px;">
-<a href="https://github.com/lorimedeiros">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorimedeiros&theme=ocean_dark"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=lorimedeiros&theme=onedark"/>
 </a>
 </div>
