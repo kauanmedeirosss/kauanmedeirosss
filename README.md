@@ -23,6 +23,6 @@
 
 <div style="margin-top: 20px;">
 <a href="https://github.com/lorimedeiros">
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=lorimedeiros&theme=onedark"/>
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=lorimedeiros&theme=xcode"/>
 </a>
 </div>
