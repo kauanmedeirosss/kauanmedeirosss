@@ -6,7 +6,7 @@
 * Desenvolvimento com .NET
 * Desenvolvimento android com Kotlin e xml
 
-✶ 💬 Português - BR, Inglês, Espanhol.
+✶ 💬 Português, Inglês, Espanhol.
 
 ## Experiência com:
 
