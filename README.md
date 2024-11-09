@@ -3,8 +3,7 @@
 
 ✶ 👩🏻‍💻 Atualmente estudando:
 * Desenvolvimento Web com Springboot
-* Desenvolvimento com .NET
-* Desenvolvimento android com Kotlin e xml
+* Analises de Dados
 
 ✶ 💬 Português, Inglês, Espanhol.
 
