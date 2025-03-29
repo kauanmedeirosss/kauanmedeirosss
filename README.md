@@ -4,4 +4,6 @@
 ✶ 👩🏻‍💻 Atualmente estudando:
 * Desenvolvimento Web com Springboot
 
-✶ 🔭 Atuando com Análise de Dados (Python) e Desenvolvimento Back-end (Spring Boot)
+✶ 🔭 Atuando com:
+* Análise de Dados com Python - [LabGov](https://www.ufpb.br/labgov)
+* Desenvolvimento Back-end com Spring Boot 
