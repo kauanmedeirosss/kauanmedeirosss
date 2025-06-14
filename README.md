@@ -3,4 +3,4 @@
 ✶ 🌱 Atualmente aprendendo: **Spring Boot e SQL**.  
 ✶ � Trabalhando em:  
    - **Análise de Dados com Python** no [LabGov](https://www.ufpb.br/labgov)  
-   - **Desenvolvimento Back-end com Spring Boot** na [FAPESQ](https://fapesq.rpp.br/)
+   - **Pesquisa e Desenvolvimento Back-end com Spring Boot** na [FAPESQ](https://fapesq.rpp.br/)
