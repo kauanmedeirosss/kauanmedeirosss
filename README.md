@@ -91,7 +91,7 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
 
 ### 🛠 Ferramentas:
 
-#### 💡 **Frameworks:**
+#### 💡 **FrameWorks:**
 <img 
     align="left" 
     alt="Spring" 
