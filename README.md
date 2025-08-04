@@ -171,7 +171,7 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     title="Amazon Web Services"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="left" 
