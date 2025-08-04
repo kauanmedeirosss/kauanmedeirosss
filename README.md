@@ -90,6 +90,27 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
 <br/>
 
 ### 🛠 Ferramentas:
+
+#### 💡 **Frameworks:**
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<br/>
+
 #### 🛢️ **Banco de Dados / SGBDs:**
 <img 
     align="left" 
@@ -154,14 +175,6 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
