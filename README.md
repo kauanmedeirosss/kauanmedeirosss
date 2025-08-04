@@ -4,19 +4,13 @@
 
 Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UFPB - Campus IV.
 
-### 🌱 Atualmente aprendendo: 
-   - **Arquitetura de Dados e me especializando em Desenvolvimento Web**.  
-
-
 
 ### 🎯 Atuando como:  
    - **Pesquisador, Arquiteto de Software e Desenvolvedor Back-end com Spring Boot** na [FAPESQ](https://fapesq.rpp.br/)   
 
 
-
 ### 💼 Outras experiências:  
    - **Analista de Dados com Python** no [LabGov](https://www.ufpb.br/labgov)
-
 
 
 ### 💻 Linguagens:
