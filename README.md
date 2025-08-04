@@ -72,6 +72,14 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
 />
 <img 
     align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -107,6 +115,34 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
+<img 
+    align="left" 
+    alt="Mongo DB" 
+    title="Mongo DB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
+
+<br/>
+
+#### ☁️ **Nuvem:**
+<img 
+    align="left" 
+    alt="Amazon Web Services" 
+    title="Amazon Web Services"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
 
 <br/>
 
@@ -118,14 +154,6 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img 
     align="left" 
@@ -158,14 +186,6 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Amazon Web Services" 
-    title="Amazon Web Services"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -230,6 +250,14 @@ Me chamo Kauan Medeiros, tenho 21 anos e sou natural da Paraíba. Atualmente, es
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 
 <br/>
