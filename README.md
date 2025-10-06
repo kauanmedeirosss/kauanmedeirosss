@@ -199,6 +199,14 @@
 />
 <img 
     align="left" 
+    alt="Google Colab" 
+    title="Google Colab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
+/>
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
