@@ -231,6 +231,14 @@
 />
 <img 
     align="left" 
+    alt="JUnit" 
+    title="JUinit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg"
+/>
+<img 
+    align="left" 
     alt="JSON" 
     title="JSON"
     width="30px" 
