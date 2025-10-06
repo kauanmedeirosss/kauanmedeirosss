@@ -172,7 +172,7 @@
 
 <br/>
 
-#### 🖥️ **Editores de Código:**
+#### 🖥️ **Editores de Código e Versionamento:**
 <img 
     align="left" 
     alt="IntelliJ IDEA" 
@@ -205,10 +205,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
 />
-
-<br/>
-
-#### 🔧 **Outras Ferramentas:**
 <img 
     align="left" 
     alt="GitHub" 
@@ -225,6 +221,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/>
+
+#### 🔧 **Outras Ferramentas:**
 <img 
     align="left" 
     alt="Docker" 
