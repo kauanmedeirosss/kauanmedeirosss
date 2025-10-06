@@ -247,6 +247,14 @@
 />
 <img 
     align="left" 
+    alt="Axios" 
+    title="Axios"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"
+/>
+<img 
+    align="left" 
     alt="JSON" 
     title="JSON"
     width="30px" 
