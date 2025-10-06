@@ -74,7 +74,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" 
-/>   
+/>
 <img 
     align="left" 
     alt="Markdown" 
@@ -82,7 +82,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" 
-/>   
+/>
 
 <br/>
 
