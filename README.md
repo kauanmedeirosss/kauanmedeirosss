@@ -223,6 +223,14 @@
 />
 <img 
     align="left" 
+    alt="Visual Studio" 
+    title="Visual Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+/>
+<img 
+    align="left" 
     alt="Jupyter" 
     title="Jupyter"
     width="30px" 
