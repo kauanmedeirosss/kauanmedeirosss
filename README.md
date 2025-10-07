@@ -315,6 +315,14 @@
 />
 <img 
     align="left" 
+    alt="Thymeleaf" 
+    title="Thymeleaf"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg"
+/>
+<img 
+    align="left" 
     alt="Grafana" 
     title="Grafana"
     width="30px" 
