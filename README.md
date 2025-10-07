@@ -275,6 +275,14 @@
 />
 <img 
     align="left" 
+    alt="OpenAPI" 
+    title="OpenAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg"
+/>
+<img 
+    align="left" 
     alt="OAuth" 
     title="OAuth"
     width="30px" 
@@ -319,7 +327,7 @@
     title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img 
     align="left" 
@@ -365,6 +373,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 <img 
     align="left" 
